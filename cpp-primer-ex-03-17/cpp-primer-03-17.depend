@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579258432 source:c:\users\tom\cpp primer\cpp-primer-03-17\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

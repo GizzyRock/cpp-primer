@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579070196 source:c:\users\tom\cpp primer\cpp-primer-ex-03-04\main.cpp
+	<iostream>
+	<string>
+
